@@ -1,0 +1,245 @@
+2 HTML5 vs. Flash: Selecting the Best Tool for the Job
+There is now speculation on Flash’s ultimate future. Adobe recently
+announced it will no longer be supporting Flash on Linux, and there
+are desktop and laptop computers now being sold without the
+Adobe Flash Player plug-in installed. Will Flash eventually vanish like
+other popular proprietary plug-ins (e.g., RealAudio) and be replaced
+by built-in browser or operating system features?
+HTML5
+HTML5 consists of a set of technologies including:
+􀁴􀀁 􀀢􀀁􀁏􀁆􀁘􀀁􀁈􀁆􀁏􀁆􀁓􀁂􀁕􀁊􀁐􀁏􀀁􀁐􀁇􀀁􀀩􀀵􀀮􀀭 - The ‘hypertext’ language for
+defining the layout of web pages and applications that includes
+new entities such as Canvas graphics, audio, and video
+􀁴􀀁 CSS3 - The latest generation of CSS that defines the appearance
+of items within the layout of web pages and applications and
+allows developers to animate and transform elements using CSS
+properties
+􀁴􀀁 􀀢􀁅􀁗􀁂􀁏􀁄􀁆􀁅􀀁􀀫􀁂􀁗􀁂􀀴􀁄􀁓􀁊􀁑􀁕􀀁􀀢􀀱􀀪􀁔 - The standard scripting language
+included in browsers that has been extended to account for
+features such as drag-and-drop, geo-location, and local storage,
+and to run in a slow or nonexistent network connection
+These HTML5 technologies have led to highly capable browser
+functionality which runs interactive multimedia content without the
+need for proprietary plug-ins such as the Flash Player.
+With the current proliferation of devices and operating systems,
+the computer industry has become as diverse and varied as the PC
+market of the early 1980’s. Users are expecting quality application
+experiences not only on traditional desktops, but also on their
+mobile devices. Web-based application developers and designers
+are facing the difficult decision of selecting a tool to create
+interactive multimedia content that can meet user expectations
+within a given budget and time frame while maintaining its
+relevancy as new technologies come onto the market.
+Current trends are shifting away from proprietary plugins such
+as Flash toward HTML5 and other open standards that utilize
+multimedia features already built into web browsers. Although
+HTML5 has great promise, is it the right tool today? As is often the
+case with technology, finding the right solution calls for a balance
+of multiple needs (e.g., performance and productivity) within given
+constraints (e.g., budget and timeline).
+FLASH
+Years ago frustrated web designers and developers around the
+world started migrating from straight HyperText Markup Language
+(HTML), Cascading Style Sheets (CSS), and JavaScript to Macromedia
+(now Adobe) Flash due to the promise of delivering consistent
+user experiences across different browsers and multiple computer
+platforms. Flash solved countless issues, including variances in
+media and graphic files, layout idiosyncrasies, streaming audio and
+video, and a general lack of support for engaging interactivity such
+as drag-and-drop and animation.
+While Flash supports multimedia and interactive experiences, it
+plays through a browser as a plug-in and demands significant
+CPU and memory resources not yet prevalent on today’s mobile
+devices. As a result, mobile device performance is of poorer quality
+compared to HTML5 or native applications. These issues and other
+factors (some that were played out in the press) resulted in Apple’s
+decision not to allow browsers with a Flash Player plug-in on its
+iOS mobile devices. Whether or not the technology was ready, the
+popularity of Apple’s mobile devices spurred an accelerated trend
+toward plug-in-free HTML5.
+Adobe’s response to the demand for an application to play without
+requiring a plug-in is Adobe Integrated Runtime (AIR), a platform
+that allows a Flash application to be packaged as a standalone
+mobile application. AIR is supported by all common mobile
+operating systems including iOS, Android, and BlackBerry. In the fall
+of 2011, Adobe announced it would cease developing the Flash
+Player plug-in for mobile browsers.
+Unfortunately, the current version of AIR still has issues on mobile
+devices:
+􀁴􀀁 Performance of applications distributed via AIR is not on par with
+HTML5 or native-developed applications.
+􀁴􀀁 AIR distributed content runs independently as an application and
+not through a “website”, making LMS tracking via “offline” mobile
+applications challenging.
+􀀪􀁏􀁕􀁆􀁓􀁏􀁆􀁕􀀁􀀦􀁙􀁑􀁍􀁐􀁓􀁆􀁓􀀁􀀙 24% 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺
+􀀪􀁏􀁕􀁆􀁓􀁏􀁆􀁕􀀁􀀦􀁙􀁑􀁍􀁐􀁓􀁆􀁓􀀁􀀚 8% 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺
+􀀪􀁏􀁕􀁆􀁓􀁏􀁆􀁕􀀁􀀦􀁙􀁑􀁍􀁐􀁓􀁆􀁓􀀁􀀒􀀑 ** 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺
+􀀧􀁊􀁓􀁆􀁇􀁐􀁙􀀁􀀔􀀏􀀗 9% 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺
+􀀧􀁊􀁓􀁆􀁇􀁐􀁙􀀁􀀕􀀌 7% 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺
+􀀴􀁂􀁇􀁂􀁓􀁊 6% 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺
+􀀴􀁂􀁇􀁂􀁓􀁊􀀁􀀮􀁐􀁃􀁊􀁍􀁆 2% 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺
+􀀤􀁉􀁓􀁐􀁎􀁆 28% 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺
+􀀢􀁏􀁅􀁓􀁐􀁊􀁅 2% 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺 􀁺
+Market Share - 3/12*
+HTML5 Support
+Canvas
+H.264 Video
+MP3/AAC Audio
+Geolocation
+Full CSS3
+Storage
+􀁺􀀃Fully supported
+􀁺􀀃Incomplete support or only available with additional plug-in
+􀁺 No Support
+* Global market share statistics aggregated from StatCounter are just
+one resource but generally indicative of current usage
+** Unrealeased or no statistics available
+©2012 Allen Interactions Inc. All rights reserved.
+HTML5 vs. Flash: Selecting the Best Tool for the Job 3
+But, HTML5 comes with its challenges:
+􀁴􀀁 HTML5 is only partially or not supported on many popular
+desktop browser versions, and this situation is likely to continue
+as many large corporate users are historically slow to upgrade
+(See table on page 2).
+􀁴􀀁 Performance of graphics and animation features vary across
+browsers.
+􀁴􀀁 Audio and video formats, even very popular ones, are not
+consistently supported across browsers (See Additional
+Thoughts section for more information).
+􀁴􀀁 Embedding fonts requires tricky CSS configuration and
+potentially multiple font files.
+􀁴􀀁 HTML5 does not have the capability to leverage advanced
+features on mobile devices such as the camera or microphone.
+Flash designers and developers who take advantage of HTML5
+would be wise to reevaluate their existing workflows, skill sets, and
+designs to best leverage the capabilities of the browser, without
+encountering its pitfalls. Traditional, proprietary technologies like
+Flash have had tools, workflows, and design integration already
+developed to ease the path to deployment. HTML5, on the
+other hand, is a younger platform and many of these tools and
+workflows are not yet available.
+􀀧􀀭􀀢􀀴􀀩􀀁􀀷􀀴􀀏􀀁􀀩􀀵􀀮􀀭􀀖􀀁􀀧􀀦􀀢􀀵􀀶􀀳􀀦􀀴
+There continues to be significant confusion surrounding exactly
+what HTML5 is capable of and whether or not it measures up
+when compared to Flash. The reality is, in many cases, HTML5
+can be a great fit and offers increased assurance that content
+will have a long shelf life. The table below shows Flash and
+HTML5 capabilities for features commonly found in web-based
+applications:
+􀀸􀀩􀀢􀀵􀀁􀀯􀀰􀀸􀀠
+Although, in its current form, HTML5 is better described as an
+“emerging” technology, it is advancing rapidly, has some strong
+industry backers, and appears to be on the path to becoming
+the standard means of developing and delivering interactive
+experiences on the web. However, the very real issues described
+earlier must be considered when selecting the best tool for the
+development and delivery of interactive multimedia applications.
+Flash gives a more guaranteed consistent user experience across
+platforms, but lacks support on mobile browsers unless played
+on mobile devices via AIR. The edge Flash offers over HTML5
+is its maturity in the market, support for complex audio/video
+applications, tools developed to support Flash development and
+workflow, and, of course, the opportunity to leverage the large
+existing Flash developer community. Because Flash has significant
+issues, especially for playing on mobile devices, its advantages
+must be weighed against these issues before selecting a tool.
+So, what is the best tool to use? Consider as you always have:
+􀁴􀀁 The organization’s needs in the short-term and long-term
+􀁴􀀁 Your budget, timeline, and team
+􀁴􀀁 The capabilities and limitations of Flash and HTML5
+Don’t be afraid to invest a day or two on experimentation.
+􀀢􀀥􀀥􀀪􀀵􀀪􀀰􀀯􀀢􀀭􀀁􀀵􀀩􀀰􀀶􀀨􀀩􀀵􀀴
+Developers of applications that deliver media must consider
+the varying audio and video formats that are not consistently
+supported across browsers. Even common formats, such as MP3-
+encoded audio and H.264-encoded video, are not guaranteed
+to play everywhere due to concern over these formats being
+considered “patent encumbered.” Vendors who do not employ
+H.264 and MP3, which includes The Mozilla Foundation (Firefox),
+avoid having to pay licensing fees.
+In HTML5, if you want to ensure your media will play using the
+new <audio> and <video> tags, you need to have multiple
+versions of any audio and video. As of this writing, there are hints
+the preeminent standard formats H.264 (video) and MP3 (audio)
+will be supported everywhere, including Firefox. At least for
+Mozilla, this change is being made to ensure they can compete in
+the mobile space, where devices commonly have H.264 decoders
+in hardware to display video without adversely affecting battery
+life or overall performance.
+Basic playback of audio and video aside, it is still not possible to
+build pure HTML5 applications that leverage advanced features,
+such as cameras and microphones. Until new technologies (such
+as the open source initiative, WebRTC) have universal support,
+videoconferencing, VoIP-like applications and recording are still
+the domain of plug-ins like Flash.
+􀀥􀁓􀁂􀁈􀀎􀁂􀁏􀁅􀀎􀀥􀁓􀁐􀁑 􀁺 􀁺
+􀀮􀁆􀁅􀁊􀁂􀀁􀀱􀁍􀁂􀁚􀁃􀁂􀁄􀁌 􀁺 􀁺
+􀀮􀁆􀁅􀁊􀁂􀀁􀀴􀁕􀁓􀁆􀁂􀁎􀁊􀁏􀁈 􀁺 􀁺
+􀀮􀁆􀁅􀁊􀁂􀀁􀀳􀁆􀁄􀁐􀁓􀁅􀁊􀁏􀁈 􀁺 􀁺
+􀀮􀁖􀁍􀁕􀁊􀀎􀁕􀁐􀁖􀁄􀁉 􀁺 􀁺
+􀀷􀁆􀁄􀁕􀁐􀁓􀀁􀀨􀁓􀁂􀁑􀁉􀁊􀁄􀁔 􀁺 􀁺
+􀀴􀁊􀁎􀁑􀁍􀁆􀀁􀀧􀁐􀁏􀁕􀀁􀀦􀁎􀁃􀁆􀁅􀁅􀁊􀁏􀁈 􀁺 􀁺
+􀀤􀁓􀁐􀁔􀁔􀀎􀀥􀁐􀁎􀁂􀁊􀁏􀀁􀀤􀁐􀁎􀁎􀁖􀁏􀁊􀁄􀁂􀁕􀁊􀁐􀁏 􀁺 􀁺
+􀀰􀃶􀁄􀁆􀀁􀀰􀁃􀁋􀁆􀁄􀁕􀀁􀀴􀁕􀁐􀁓􀁂􀁈􀁆 􀁺 􀁺
+Flash
+HTML5
+􀁺􀀃Fully supported
+􀁺􀀃Incomplete support or only available with additional plug-in
+􀁺 No Support
+AIR, Android, Blackberry, Chrome, Internet Explorer, iOS, Firefox, Flash, Linux, PhoneGap, Safari & Titanium Studio are registered trademarks of their respective owners. All rights reserved.
+On mobile devices, an HTML5 application packager, such as
+PhoneGap or Titanium, could be used to display most of the
+same code used on the desktop browser. These tools not only run
+HTML5, but provide interfaces to functionality traditionally only
+available to native applications and not yet available directly in
+the browser. There would be very little duplicate code between
+mobile and desktop versions and would provide a consistent user
+experience and feature set.
+All of this sounds very confusing because it is! The takeaway is that
+neither audio nor video is currently as simple in the HTML5 realm
+as it is in Flash.
+The astute technologist will note the best solution is often
+one that blends technologies. The best combination of cost
+effectiveness, developer productivity, and long-term viability
+would be one that leverages both HTML5 and Flash.
+A mostly HTML5 interactive application could easily use an
+embedded SWF solely for things only currently possible in Flash.
+Patrick Krekelberg, chief software architect at Allen Interactions, is a veteran technologist with diverse experience
+and interest in the design and development of Internet applications and infrastructure. Prior to 7 years in
+e-learning, he worked in commercial avionics, defense, and consulting. Areas of focus span a wide gamut from
+million-line supercomputer graphics simulations and virtual environments to software for professional
+photographers and everything in between. These experiences, including the influences of writing and performing
+music, his photography business, and three children, have led to a unique, generalized high-level perspective on
+the overall makeup of systems and how they can better serve users. This systems perspective, combined with his
+ability to think deeply and creatively when tackling engineering problems, has enabled Krekelberg to make
+important contributions to the development of ZebraZapps, Allen Interactions’ revolutionary cloud-based
+authoring and publishing platform. He has also served or presented at leading industry organizations including
+IEEE, AICC, SigAda, eLearning Guild, MIMA, and eLearning DevCon. He holds a BS in Electrical Engineering from
+St. Cloud State University.
+􀀢􀀣􀀰􀀶􀀵􀀁􀀵􀀩􀀦􀀁􀀢􀀶􀀵􀀩􀀰􀀳
+􀀱􀀢􀀵􀀳􀀪􀀤􀀬􀀁􀀬􀀳􀀦􀀬􀀦􀀭􀀣􀀦􀀳􀀨􀀁|􀀁􀀤􀀩􀀪􀀦􀀧􀀁􀀴􀀰􀀧􀀵􀀸􀀢􀀳􀀦􀀁􀀢􀀳􀀤􀀩􀀪􀀵􀀦􀀤􀀵􀀁
+􀀢􀀣􀀰􀀶􀀵􀀁􀀢􀀭􀀭􀀦􀀯􀀁􀀪􀀯􀀵􀀦􀀳􀀢􀀤􀀵􀀪􀀰􀀯􀀴
+At Allen Interactions, we understand that your success in business depends on getting people to do the right things at the right time. This requires
+more than learning. It requires a change in performance. Guided by a culture of customer-focused principles, our Savvy Process, highly-skilled
+employees, and our industry-recognized instructional design expertise, ensures learning, retention and business impact.
+􀀤􀁓􀁆􀁂􀁕􀁆􀀁􀁎􀁆􀁂􀁏􀁊􀁏􀁈􀁇􀁖􀁍􀀍􀀁􀁎􀁆􀁎􀁐􀁓􀁂􀁃􀁍􀁆􀀍􀀁􀁎􀁐􀁕􀁊􀁗􀁂􀁕􀁊􀁐􀁏􀁂􀁍􀀁􀁆􀁙􀁑􀁆􀁓􀁊􀁆􀁏􀁄􀁆􀁔􀀏
+Because the most dramatic learning happens through first-hand experience, everything we do is focused on creating experiences — engaging,
+challenging, fun learning events driven by the best instructional design — that get people to think differently. Act differently. Work differently.
+Learning. For a Change.
+􀀦􀁙􀁑􀁆􀁓􀁊􀁆􀁏􀁄􀁆􀀏􀀁􀀵􀁉􀁆􀀁􀀥􀁊􀃵􀁆􀁓􀁆􀁏􀁄􀁆􀀏
+If you haven’t experienced truly effective learning, you’ve only seen typical interactions, not Allen Interactions. Training programs that are
+not changing people’s behavior are not contributing to organizational success. Take a bold step. Discover exceptional learning — interactive
+experiences that make a difference. See for yourself the potential in terms of lasting results and return on investment.
+􀀴􀀦􀀳􀀷􀀪􀀤􀀦􀀴
+Custom e-Learning
+Blended Learning
+Mobile Learning
+Strategic Consulting
+Career Education
+Authorware Conversion
+LMS & Hosting Solutions
+Tools (ZebraZapps & Models)
+alleninteractions.com | 800.799.6280
+@customelearning | fb.com/alleninteractions | linkedin
+minneapolis | san francisco | tampa | chicago | detroit | philadelphia
+ZEBRAZAPPS
